@@ -1,0 +1,14 @@
+Structure of Hospital Management System:
+
+Main Form tabs:
+Welcome
+Employee Registration
+Employee List
+Attendance
+Patient Registration
+Patient List
+Hospital Room
+Room Information
+Hospital Store
+Payment Form
+
